@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.26127dc9.css",
-    "main.js": "/static/js/main.8ed873b5.js",
-    "index.html": "/index.html",
-    "main.26127dc9.css.map": "/static/css/main.26127dc9.css.map",
-    "main.8ed873b5.js.map": "/static/js/main.8ed873b5.js.map"
+    "main.css": "/threejs-animations/static/css/main.26127dc9.css",
+    "main.js": "/threejs-animations/static/js/main.8ed873b5.js",
+    "index.html": "/threejs-animations/index.html",
+    "main.26127dc9.css.map": "/threejs-animations/static/css/main.26127dc9.css.map",
+    "main.8ed873b5.js.map": "/threejs-animations/static/js/main.8ed873b5.js.map"
   },
   "entrypoints": [
     "static/css/main.26127dc9.css",
